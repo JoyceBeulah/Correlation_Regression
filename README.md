@@ -23,10 +23,8 @@ If y represents the dependent variable and x the independent variable, this rela
 # Program :
 
 ```
-
 DEVELOPED BY : R.JOYCE BEULAH
 REGISTER NO : 212222230058
-
 ```
 
 
@@ -67,7 +65,6 @@ plt.legend(['Regression Line','Data points'])
 
 
 ```
-
 
 
 # Output 
